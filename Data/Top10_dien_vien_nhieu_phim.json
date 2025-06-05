@@ -1,0 +1,62 @@
+[
+  {
+    "totalMovies": 58,
+    "actor": "Gèrard Depardieu",
+    "avgImdbRating": 6.65,
+    "avgTomatoesViewerRating": 3.45
+  },
+  {
+    "totalMovies": 52,
+    "actor": "Robert De Niro",
+    "avgImdbRating": 6.94,
+    "avgTomatoesViewerRating": 3.42
+  },
+  {
+    "totalMovies": 48,
+    "actor": "Bruce Willis",
+    "avgImdbRating": 6.43,
+    "avgTomatoesViewerRating": 3.24
+  },
+  {
+    "totalMovies": 46,
+    "actor": "Samuel L. Jackson",
+    "avgImdbRating": 6.41,
+    "avgTomatoesViewerRating": 3.18
+  },
+  {
+    "totalMovies": 44,
+    "actor": "Morgan Freeman",
+    "avgImdbRating": 7.15,
+    "avgTomatoesViewerRating": 3.46
+  },
+  {
+    "totalMovies": 42,
+    "actor": "Max von Sydow",
+    "avgImdbRating": 7.17,
+    "avgTomatoesViewerRating": 3.66
+  },
+  {
+    "totalMovies": 40,
+    "actor": "Nicole Kidman",
+    "avgImdbRating": 6.47,
+    "avgTomatoesViewerRating": 3.17
+  },
+  {
+    "totalMovies": 40,
+    "actor": "Michael Caine",
+    "avgImdbRating": 6.77,
+    "avgTomatoesViewerRating": 3.43
+  },
+  {
+    "totalMovies": 40,
+    "actor": "Christopher Plummer",
+    "avgImdbRating": 7,
+    "avgTomatoesViewerRating": 3.5
+  },
+  {
+    "totalMovies": 40,
+    "actor": "Gene Hackman",
+    "avgImdbRating": 6.71,
+    "avgTomatoesViewerRating": 3.33
+  }
+]

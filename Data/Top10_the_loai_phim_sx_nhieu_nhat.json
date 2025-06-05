@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "Drama",
+    "totalMovies": 10868,
+    "avgImdbRating": 6.8,
+    "avgTomatoesViewerRating": 3.39
+  },
+  {
+    "_id": "Comedy",
+    "totalMovies": 5763,
+    "avgImdbRating": 6.45,
+    "avgTomatoesViewerRating": 3.28
+  },
+  {
+    "_id": "Romance",
+    "totalMovies": 2953,
+    "avgImdbRating": 6.66,
+    "avgTomatoesViewerRating": 3.38
+  },
+  {
+    "_id": "Crime",
+    "totalMovies": 2177,
+    "avgImdbRating": 6.68,
+    "avgTomatoesViewerRating": 3.35
+  },
+  {
+    "_id": "Thriller",
+    "totalMovies": 2142,
+    "avgImdbRating": 6.3,
+    "avgTomatoesViewerRating": 3.19
+  },
+  {
+    "_id": "Action",
+    "totalMovies": 2054,
+    "avgImdbRating": 6.35,
+    "avgTomatoesViewerRating": 3.23
+  },
+  {
+    "_id": "Adventure",
+    "totalMovies": 1629,
+    "avgImdbRating": 6.47,
+    "avgTomatoesViewerRating": 3.28
+  },
+  {
+    "_id": "Documentary",
+    "totalMovies": 1504,
+    "avgImdbRating": 7.37,
+    "avgTomatoesViewerRating": 3.52
+  },
+  {
+    "_id": "Horror",
+    "totalMovies": 1277,
+    "avgImdbRating": 5.78,
+    "avgTomatoesViewerRating": 3.01
+  },
+  {
+    "_id": "Biography",
+    "totalMovies": 1111,
+    "avgImdbRating": 7.09,
+    "avgTomatoesViewerRating": 3.49
+  }
+]

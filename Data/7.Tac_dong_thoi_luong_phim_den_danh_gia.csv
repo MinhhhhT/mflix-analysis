@@ -1,0 +1,9 @@
+totalMovies,runtimeRange,avgImdbRating,avgTomatoesViewerRating
+508,0 - 60 mins,7.35,3.2
+3368,60 - 90 mins,6.46,3.24
+11131,90 - 120 mins,6.57,3.32
+2400,120 - 150 mins,7,3.5
+504,150 - 180 mins,7.22,3.61
+185,180 - 210 mins,7.38,3.46
+35,210 - 240 mins,7.83,3.78
+98,240 - Max mins,7.73,3.43

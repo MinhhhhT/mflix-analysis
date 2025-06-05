@@ -1,0 +1,52 @@
+[
+  {
+    "totalMovies": 10921,
+    "country": "USA",
+    "avgImdbRating": 6.52
+  },
+  {
+    "totalMovies": 2652,
+    "country": "UK",
+    "avgImdbRating": 6.82
+  },
+  {
+    "totalMovies": 2647,
+    "country": "France",
+    "avgImdbRating": 6.84
+  },
+  {
+    "totalMovies": 1494,
+    "country": "Germany",
+    "avgImdbRating": 6.64
+  },
+  {
+    "totalMovies": 1260,
+    "country": "Canada",
+    "avgImdbRating": 6.34
+  },
+  {
+    "totalMovies": 1217,
+    "country": "Italy",
+    "avgImdbRating": 6.78
+  },
+  {
+    "totalMovies": 786,
+    "country": "Japan",
+    "avgImdbRating": 7.04
+  },
+  {
+    "totalMovies": 675,
+    "country": "Spain",
+    "avgImdbRating": 6.6
+  },
+  {
+    "totalMovies": 564,
+    "country": "India",
+    "avgImdbRating": 6.95
+  },
+  {
+    "totalMovies": 470,
+    "country": "Australia",
+    "avgImdbRating": 6.45
+  }
+]

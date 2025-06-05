@@ -1,0 +1,62 @@
+[
+  {
+    "totalMovies": 35,
+    "director": "Woody Allen",
+    "avgImdbRating": 7.14,
+    "avgTomatoesViewerRating": 3.5
+  },
+  {
+    "totalMovies": 30,
+    "director": "Martin Scorsese",
+    "avgImdbRating": 7.66,
+    "avgTomatoesViewerRating": 3.74
+  },
+  {
+    "totalMovies": 29,
+    "director": "John Ford",
+    "avgImdbRating": 7.12,
+    "avgTomatoesViewerRating": 3.62
+  },
+  {
+    "totalMovies": 28,
+    "director": "Sidney Lumet",
+    "avgImdbRating": 6.98,
+    "avgTomatoesViewerRating": 3.41
+  },
+  {
+    "totalMovies": 27,
+    "director": "Takashi Miike",
+    "avgImdbRating": 6.9,
+    "avgTomatoesViewerRating": 3.61
+  },
+  {
+    "totalMovies": 25,
+    "director": "Robert Altman",
+    "avgImdbRating": 6.8,
+    "avgTomatoesViewerRating": 3.48
+  },
+  {
+    "totalMovies": 25,
+    "director": "Spike Lee",
+    "avgImdbRating": 6.81,
+    "avgTomatoesViewerRating": 3.34
+  },
+  {
+    "totalMovies": 25,
+    "director": "Steven Spielberg",
+    "avgImdbRating": 7.55,
+    "avgTomatoesViewerRating": 3.58
+  },
+  {
+    "totalMovies": 24,
+    "director": "Clint Eastwood",
+    "avgImdbRating": 7.16,
+    "avgTomatoesViewerRating": 3.51
+  },
+  {
+    "totalMovies": 24,
+    "director": "George Cukor",
+    "avgImdbRating": 7.15,
+    "avgTomatoesViewerRating": 3.56
+  }
+]

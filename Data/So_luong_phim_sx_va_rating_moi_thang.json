@@ -1,0 +1,110 @@
+[
+  {
+    "totalMoviesReleased": 1502,
+    "totalCommentsOverall": 1300,
+    "month": 1,
+    "avgImdbRating": 6.69,
+    "avgTomatoesViewerRating": 3.32,
+    "avgCommentsPerMovie": 0.87,
+    "monthName": "January"
+  },
+  {
+    "totalMoviesReleased": 1377,
+    "totalCommentsOverall": 2121,
+    "month": 2,
+    "avgImdbRating": 6.65,
+    "avgTomatoesViewerRating": 3.33,
+    "avgCommentsPerMovie": 1.54,
+    "monthName": "February"
+  },
+  {
+    "totalMoviesReleased": 1634,
+    "totalCommentsOverall": 3052,
+    "month": 3,
+    "avgImdbRating": 6.65,
+    "avgTomatoesViewerRating": 3.35,
+    "avgCommentsPerMovie": 1.87,
+    "monthName": "March"
+  },
+  {
+    "totalMoviesReleased": 1599,
+    "totalCommentsOverall": 1234,
+    "month": 4,
+    "avgImdbRating": 6.62,
+    "avgTomatoesViewerRating": 3.31,
+    "avgCommentsPerMovie": 0.77,
+    "monthName": "April"
+  },
+  {
+    "totalMoviesReleased": 1344,
+    "totalCommentsOverall": 5181,
+    "month": 5,
+    "avgImdbRating": 6.68,
+    "avgTomatoesViewerRating": 3.37,
+    "avgCommentsPerMovie": 3.85,
+    "monthName": "May"
+  },
+  {
+    "totalMoviesReleased": 1339,
+    "totalCommentsOverall": 5497,
+    "month": 6,
+    "avgImdbRating": 6.63,
+    "avgTomatoesViewerRating": 3.34,
+    "avgCommentsPerMovie": 4.11,
+    "monthName": "June"
+  },
+  {
+    "totalMoviesReleased": 1184,
+    "totalCommentsOverall": 4830,
+    "month": 7,
+    "avgImdbRating": 6.56,
+    "avgTomatoesViewerRating": 3.3,
+    "avgCommentsPerMovie": 4.08,
+    "monthName": "July"
+  },
+  {
+    "totalMoviesReleased": 1392,
+    "totalCommentsOverall": 2728,
+    "month": 8,
+    "avgImdbRating": 6.49,
+    "avgTomatoesViewerRating": 3.3,
+    "avgCommentsPerMovie": 1.96,
+    "monthName": "August"
+  },
+  {
+    "totalMoviesReleased": 1675,
+    "totalCommentsOverall": 1120,
+    "month": 9,
+    "avgImdbRating": 6.7,
+    "avgTomatoesViewerRating": 3.33,
+    "avgCommentsPerMovie": 0.67,
+    "monthName": "September"
+  },
+  {
+    "totalMoviesReleased": 2003,
+    "totalCommentsOverall": 3440,
+    "month": 10,
+    "avgImdbRating": 6.65,
+    "avgTomatoesViewerRating": 3.28,
+    "avgCommentsPerMovie": 1.72,
+    "monthName": "October"
+  },
+  {
+    "totalMoviesReleased": 1643,
+    "totalCommentsOverall": 3905,
+    "month": 11,
+    "avgImdbRating": 6.75,
+    "avgTomatoesViewerRating": 3.35,
+    "avgCommentsPerMovie": 2.38,
+    "monthName": "November"
+  },
+  {
+    "totalMoviesReleased": 1479,
+    "totalCommentsOverall": 4605,
+    "month": 12,
+    "avgImdbRating": 6.73,
+    "avgTomatoesViewerRating": 3.38,
+    "avgCommentsPerMovie": 3.11,
+    "monthName": "December"
+  }
+]

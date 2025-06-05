@@ -1,0 +1,50 @@
+[
+  {
+    "totalMovies": 508,
+    "runtimeRange": "0 - 60 mins",
+    "avgImdbRating": 7.35,
+    "avgTomatoesViewerRating": 3.2
+  },
+  {
+    "totalMovies": 3368,
+    "runtimeRange": "60 - 90 mins",
+    "avgImdbRating": 6.46,
+    "avgTomatoesViewerRating": 3.24
+  },
+  {
+    "totalMovies": 11131,
+    "runtimeRange": "90 - 120 mins",
+    "avgImdbRating": 6.57,
+    "avgTomatoesViewerRating": 3.32
+  },
+  {
+    "totalMovies": 2400,
+    "runtimeRange": "120 - 150 mins",
+    "avgImdbRating": 7,
+    "avgTomatoesViewerRating": 3.5
+  },
+  {
+    "totalMovies": 504,
+    "runtimeRange": "150 - 180 mins",
+    "avgImdbRating": 7.22,
+    "avgTomatoesViewerRating": 3.61
+  },
+  {
+    "totalMovies": 185,
+    "runtimeRange": "180 - 210 mins",
+    "avgImdbRating": 7.38,
+    "avgTomatoesViewerRating": 3.46
+  },
+  {
+    "totalMovies": 35,
+    "runtimeRange": "210 - 240 mins",
+    "avgImdbRating": 7.83,
+    "avgTomatoesViewerRating": 3.78
+  },
+  {
+    "totalMovies": 98,
+    "runtimeRange": "240 - Max mins",
+    "avgImdbRating": 7.73,
+    "avgTomatoesViewerRating": 3.43
+  }
+]

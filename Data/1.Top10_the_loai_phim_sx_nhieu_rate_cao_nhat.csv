@@ -1,0 +1,11 @@
+_id,totalMovies,avgImdbRating,avgTomatoesViewerRating
+Drama,10868,6.8,3.39
+Comedy,5763,6.45,3.28
+Romance,2953,6.66,3.38
+Crime,2177,6.68,3.35
+Thriller,2142,6.3,3.19
+Action,2054,6.35,3.23
+Adventure,1629,6.47,3.28
+Documentary,1504,7.37,3.52
+Horror,1277,5.78,3.01
+Biography,1111,7.09,3.49
